@@ -1,0 +1,53 @@
+{
+    "docs": [
+        {
+            "externalId": {
+                "_id": "62f1179b0f5be412467e2896",
+                "imdb": "tt8289930"
+            },
+            "logo": {
+                "_id": "62f1179b0f5be412467e2894",
+                "url": null
+            },
+            "poster": {
+                "_id": "62f1179b0f5be412467e2899",
+                "url": "https://st.kp.yandex.net/images/film_big/1240162.jpg",
+                "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_1240162.jpg"
+            },
+            "rating": {
+                "_id": "62f1179b0f5be412467e289a",
+                "kp": 8.4,
+                "imdb": 8.6,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "votes": {
+                "_id": "62f1179b0f5be412467e289b",
+                "kp": 3475,
+                "imdb": 37792,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 20
+            },
+            "id": 1240162,
+            "type": "tv-series",
+            "name": "Формула 1. Драйв выживания",
+            "description": "Сериал даёт болельщикам возможность не только проследить за борьбой за титул с первой до последней гонки сезона, но и познакомиться с личной жизнью их кумиров, увидеть, что происходит внутри команд, тех людей, благодаря труду которых все знают Формулу 1 такой, какая она есть.",
+            "year": 2019,
+            "alternativeName": "Formula 1: Drive to Survive",
+            "enName": null,
+            "names": [
+                {
+                    "_id": "62f1179b0f5be412467e2897",
+                    "name": "Формула 1. Драйв выживания"
+                },
+                {
+                    "_id": "62f1179b0f5be412467e2898",
+                    "name": "Formula 1: Drive to Survive"
+                }
+            ],
+            "movieLength": null,
+            "shortDescription": null
+        }
+}
