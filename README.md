@@ -3,7 +3,9 @@ Application for searching movies
 ## **This application was based on API service [Kinopoisk API](https://kinopoisk.dev/).**
 Current API give full information about all films and tv-serials which only exist. Developer get all datas like name and second name of film, date release, type of films, short and full description, ratings by film critics from kinopoisk and IMDb, opinions from simple spectators and etc. All in all very useful API with huge information. 
 
+
 ***Important thing! On developers site user can't get individual API KEY, there is only public key for all developers and have only 200 request per day.***
+
 
 ## **Main Objectives:**
 1.  Show most rated films or tv serials by Kinopoisk film critics ;
