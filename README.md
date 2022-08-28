@@ -11,7 +11,8 @@ Current API give full information about all films and tv-serials which only exis
 2.  Searching for films and tv serials;
   <img src="https://user-images.githubusercontent.com/70747233/187066494-85a36e7f-09b8-4e95-b101-4437b383c264.png" width="200">
 3.  Showing full information by clicking on choosed film/serial.
-  <img src="https://user-images.githubusercontent.com/70747233/187066499-604dccbb-76d8-47f5-96a5-6c53a1e7aca7.png" width="200">
+
+  <sub>Screenshot will be sooner :)</sub>
 
 ## **Future improvements**
 1.  Planning to add share function;
